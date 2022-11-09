@@ -1,1 +1,1 @@
-# Team-Colors
+This project is a way for me to both practice css box display and also to prove to my friend Christen that my sports teams don't all have the same colors
