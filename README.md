@@ -1,1 +1,1 @@
-This project is a way for me to both practice css box display and also to prove to my friend Christen that my sports teams don't all have the same colors
+This project is a way for me to both practice css box display and also to prove to my friend Christen that my sports teams don't all have the same colors. I used a framework basic css to make the text look more readable, as a bridge between making my own (ugly) css file and making my own css file that looks better than average. The colors added to the elements was my own code.
